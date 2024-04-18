@@ -21,6 +21,7 @@ In summary, testing XBNet on various datasets is essential for assessing its gen
 ---
 
 LINK TO RESEARCH PAPER
+
 [Research Paper](https://arxiv.org/pdf/2106.05239.pdf)
 
 ---
@@ -39,6 +40,7 @@ python setup.py install
 
 ```
 This command will install XBNet and its dependencies on your system.
+
 OR
 Install via pip:
 ```
