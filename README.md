@@ -1,4 +1,5 @@
-### Introduction to XBNet
+# XBNet - Xtremely Boosted Network
+## Boosted neural network for tabular data
 
 XBNet, short for Xtremely Boosted Network, is an innovative neural network architecture designed specifically for tabular data analysis. It combines the strengths of traditional neural networks with the interpretability and robustness of gradient boosted trees to create a highly effective and versatile model.
 
@@ -25,6 +26,7 @@ LINK TO RESEARCH PAPER
 [Research Paper](https://arxiv.org/pdf/2106.05239.pdf)
 
 ---
+---
 ### Installation :
 
 To utilize XBNet and replicate the experiments, follow these steps:
@@ -49,7 +51,7 @@ pip install --upgrade git+https://github.com/tusharsarkar3/XBNet.git
 This command will directly install XBNet from the GitHub repository.
 
 ---
-
+---
 ### Example for using
 ```
 import torch
@@ -96,7 +98,7 @@ plt.ylabel('loss')
 plt.legend() 
 plt.grid()
 ```
-
+---
 ### Implemented on Breast Cancer Dataset
 
 To reproduce the results of the research paper, XBNet was implemented on the breast cancer dataset. 
