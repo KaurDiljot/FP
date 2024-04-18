@@ -133,6 +133,14 @@ The model demonstrates good generalization, as evidenced by comparable performan
 These results suggest that the model has learned effectively from the training data and can generalize well to unseen data.
 
 ---
+### Performance comparison of XBNet and XGBoost
+
+| Dataset          | XBNet Accuracy | XGBoost Accuracy |
+|------------------|----------------|------------------|
+| Breast Cancer    | 95.61%         | 95.61%           |
+| Iris             | 97.5%          | 100.0%           |
+| Phishing         | 93.9%          | 100.0%           |
+
 ### Reference
 
 @misc{sarkar2021xbnet,
