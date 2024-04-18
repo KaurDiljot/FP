@@ -17,8 +17,6 @@ Identifying Strengths and Weaknesses: Each dataset presents unique challenges an
 
 Validation of Claims: Testing XBNet on different datasets provides empirical evidence to validate claims made in research papers or documentation regarding its performance and capabilities.
 
-In summary, testing XBNet on various datasets is essential for assessing its generalizability, benchmarking its performance, identifying strengths and weaknesses, and validating its claims. This approach ensures a thorough understanding of XBNet's effectiveness and suitability for real-world applications across different domains.
-
 ---
 
 LINK TO RESEARCH PAPER
