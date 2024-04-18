@@ -31,7 +31,7 @@ To utilize XBNet and replicate the experiments, follow these steps:
 
 1. **Clone Repository:**
 ```
-   git clone https://github.com/KaurDiljot/FP.git
+git clone https://github.com/KaurDiljot/FP.git
 
 ```
 Install using setup.py:
