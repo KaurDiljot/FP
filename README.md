@@ -26,7 +26,7 @@ LINK TO RESEARCH PAPER
 [Research Paper](https://arxiv.org/pdf/2106.05239.pdf)
 
 ---
----
+
 ### Installation :
 
 To utilize XBNet and replicate the experiments, follow these steps:
@@ -51,7 +51,7 @@ pip install --upgrade git+https://github.com/tusharsarkar3/XBNet.git
 This command will directly install XBNet from the GitHub repository.
 
 ---
----
+
 ### Example for using
 ```
 import torch
@@ -134,7 +134,7 @@ Precision, recall, and F1-score metrics are provided for both training and valid
 The model demonstrates good generalization, as evidenced by comparable performance metrics on the validation set.
 These results suggest that the model has learned effectively from the training data and can generalize well to unseen data.
 
-
+---
 ### Reference
 
 @misc{sarkar2021xbnet,
